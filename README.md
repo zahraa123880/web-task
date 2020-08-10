@@ -1,2 +1,2 @@
 # web-task
-my tasks for web deign
+my tasks for web design
